@@ -6,7 +6,7 @@ nodejs oauth2 server client test
 npm install
 
 # start
-node bin/www
+npm start
 
 # test
 
